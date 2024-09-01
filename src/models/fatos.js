@@ -105,4 +105,4 @@ const fatosHistoricos = [
     {"Ano": "2023", "Fato": "A inteligência artificial se expande, impactando múltiplas indústrias e áreas do conhecimento"}
   ];
 
-exports.fatosHistoricos = fatosHistoricos
+export default fatosHistoricos
