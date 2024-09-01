@@ -1,4 +1,4 @@
-export const fatosHistoricos = [
+const fatosHistoricos = [
     {"Ano": "1920", "Fato": "As mulheres ganham o direito ao voto nos EUA"},
     {"Ano": "1921", "Fato": "O Partido Comunista Chinês é fundado"},
     {"Ano": "1922", "Fato": "O Império Britânico diminui com a independência do Egito"},
@@ -105,3 +105,4 @@ export const fatosHistoricos = [
     {"Ano": "2023", "Fato": "A inteligência artificial se expande, impactando múltiplas indústrias e áreas do conhecimento"}
   ];
 
+exports.fatosHistoricos = fatosHistoricos
